@@ -5,8 +5,19 @@ Tukang ketik dengan logika</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=skipfortoday alt=skipfortoday /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=skipfortoday&show_icons=true&include_all_commits=true)](https://github.com/skipfortoday/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skipfortoday&layout=compact)](https://github.com/skipfortoday/github-readme-stats)
+<p align="center">
+  <a href="#" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=skipfortoday&show_icons=true&theme=dracula" />
+  </a>
+  <br/>
+  <a href="#" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skipfortoday&theme=dracula" />
+  </a>
+  <br/>
+  <a href="#" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=skipfortoday&theme=dracula" />
+  </a>
+</p>
 <!--
 **skipfortoday/skipfortoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
