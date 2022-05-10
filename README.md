@@ -4,8 +4,14 @@
 Fullstack Dev</p>
 <p> 
 - 🔭 I’m currently working on Ajaib
+</p>
+<p>
 - 🌱 I’m currently learning Javascript & Solidity & React
+</p>
+<p>
 - 👯 I’m looking to collaborate on Solidity
+</p>
+<p>
 - 📫 How to reach me: rev4rmy@gmail.com
 </p>
 ## Some of my Github Stats
