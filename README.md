@@ -14,9 +14,8 @@ Fullstack Dev</p>
 <p>
 - 📫 How to reach me: rev4rmy@gmail.com
 </p>
-
-<div> ![image_processing20210908-11991-7bi2p8](https://user-images.githubusercontent.com/43211197/167613931-0445ffb5-6b7c-4d29-85ed-5b3b4ffe9537.gif)
-</div>
+<p>![image_processing20210908-11991-7bi2p8](https://user-images.githubusercontent.com/43211197/167614082-bb8ea52f-3d46-4318-9ffc-baddd7c6f090.gif)
+ </p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=skipfortoday alt=skipfortoday /> </p>
 
