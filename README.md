@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/rizqi-ramadhani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-## Hey 👋, This is Rizqi Pratama Ramadhani
+  <p> Hey 👋, This is Rizqi Pratama Ramadhani </p>
 </div>
 
 </div>
