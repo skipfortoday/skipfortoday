@@ -2,6 +2,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-rev4rmy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rev4rmy@gmail.com)](mailto:rev4rmy@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-skipfortoday-grey?style=flat&logo=github&logoColor=white&link=https://github.com/skipfortoday/)](https://www.github.com/skipfortoday/) [![Twitter Badge](https://img.shields.io/badge/-RizqiPratamaRa2-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/RizqiPratamaRa2/)](https://www.twitter.com/RizqiPratamaRa2/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=rev4rmy@gmail.co/)](rev4rmy@gmail.co/) <p align='left'>Fear~
 Fullstack Dev</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <p> 
 - 🔭 I’m currently working on Ajaib
 </p>
