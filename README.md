@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-skipfortoday-grey?style=flat&logo=github&logoColor=white&link=https://github.com/skipfortoday/)](https://www.github.com/skipfortoday/) [![Twitter Badge](https://img.shields.io/badge/-RizqiPratamaRa2-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/RizqiPratamaRa2/)](https://www.twitter.com/RizqiPratamaRa2/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=rev4rmy@gmail.co/)](rev4rmy@gmail.co/) <p align='left'>Fear~
 Fullstack Dev</p>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif?cid=ecf05e47q50ekg7mwe8uzjmd817mkfvhpqxvy902n4jnr45a&rid=giphy.gif&ct=s" width="100"/>
 </div>
 <p> 
 - 🔭 I’m currently working on Ajaib
