@@ -1,12 +1,15 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif?cid=ecf05e47q50ekg7mwe8uzjmd817mkfvhpqxvy902n4jnr45a&rid=giphy.gif&ct=s" width="100"/>
-</div>
-<div id="badges">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/rizqi-ramadhani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
 ## Hey 👋, This is Rizqi Pratama Ramadhani
+</div>
+
+</div>
+
+
 <p> 
 - 🔭 I’m currently working on Ajaib
 </p>
